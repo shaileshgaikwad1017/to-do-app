@@ -1,0 +1,5 @@
+.bg-image{
+    background-image: url("/public/todo.jpg");
+    height: 100vh;
+    background-size: cover;
+}
