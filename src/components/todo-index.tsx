@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export function ToDoIndex() {
   return (
-    <div className="d-flex container-fluid">
+    <div className="container-fluid">
       <div
         style={{ height: "100vh" }}
         className="d-flex justify-content-center align-items-center"
