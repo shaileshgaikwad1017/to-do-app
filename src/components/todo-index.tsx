@@ -14,6 +14,9 @@ export function ToDoIndex() {
           Existing User Login
         </Link>
       </div>
+      <footer className="text-start ms-4 mb-3 fs-3">
+        Design & Developed By Shailesh Gaikwad
+      </footer>
     </div>
   );
 }
